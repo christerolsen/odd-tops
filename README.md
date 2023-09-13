@@ -9,7 +9,10 @@ A blog based on mountain hikes carried out by a friend.
 ## Description
 
 ### ! - Under development - !
+
+```bash
 The content from the API has been moved, but the code has not yet been updated..
+```
 
 
 A blog with a modern and simple design. Front-end is built with HTML, CSS and Javascript, where the content is fetched used a headless WordPress installation.
