@@ -4,7 +4,7 @@
 
 A blog based on mountain hikes carried out by a friend.
 
-- [Live demo on Netlify](https://reliable-starburst-ec036e.netlify.app//)
+- [Live demo on Netlify](https://odd-tops.christerolse.com)
 
 ## Description
 
